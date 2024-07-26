@@ -1,2 +1,4 @@
 # report-osi-and-tcp
-bob 13기 OSI 7Layer 표 
+OSI 7 Layer and TCP/IP Layer
+<br/>
+![OSI 7Layer](osi-and-tcp.png)
